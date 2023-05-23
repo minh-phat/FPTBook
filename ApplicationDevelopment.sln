@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FPTBookStore", "FPTBookStore\FPTBookStore.csproj", "{06C8EDDB-98CE-485F-9D5D-F9EEB3EFCD17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookstoreEmailService", "BookstoreEmailService\BookstoreEmailService.csproj", "{8A160C23-6ED4-4A9D-A882-2A3F2911D8B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06C8EDDB-98CE-485F-9D5D-F9EEB3EFCD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C8EDDB-98CE-485F-9D5D-F9EEB3EFCD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C8EDDB-98CE-485F-9D5D-F9EEB3EFCD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C8EDDB-98CE-485F-9D5D-F9EEB3EFCD17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A160C23-6ED4-4A9D-A882-2A3F2911D8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A160C23-6ED4-4A9D-A882-2A3F2911D8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A160C23-6ED4-4A9D-A882-2A3F2911D8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A160C23-6ED4-4A9D-A882-2A3F2911D8B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97C314CF-A38A-4EEB-9D3B-8F416067C296}
+	EndGlobalSection
+EndGlobal

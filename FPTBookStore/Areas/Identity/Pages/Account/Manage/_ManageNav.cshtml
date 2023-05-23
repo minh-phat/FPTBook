@@ -1,0 +1,7 @@
+﻿@inject SignInManager<ApplicationUser> SignInManager
+
+<ul class="nav nav-pills flex-column" style="gap: 10px">
+    <li class="@ManageNavPages.IndexNavClass(ViewContext) nav-item"><a asp-page="./Index" class="btn btn-outline-primary w-100" style="text-align:left">Profile</a></li>
+    <li class="nav-item"><a href="/Order/UserOrders" class="btn btn-outline-primary w-100" style="text-align:left">Your orders</a></li>
+    <li class="@ManageNavPages.ChangePasswordNavClass(ViewContext) nav-item"><a id="change-password" asp-page="./ChangePassword" class="btn btn-outline-primary w-100" style="text-align:left">Password</a></li>
+</ul>

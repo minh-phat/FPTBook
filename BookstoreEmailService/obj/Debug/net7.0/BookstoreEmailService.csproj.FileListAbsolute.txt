@@ -1,0 +1,12 @@
+D:\nhung du an ca nhan\CsharpWebApp\ApplicationDevelopment_FPTBook\BookstoreEmailService\bin\Debug\net7.0\BookstoreEmailService.deps.json
+D:\nhung du an ca nhan\CsharpWebApp\ApplicationDevelopment_FPTBook\BookstoreEmailService\bin\Debug\net7.0\BookstoreEmailService.dll
+D:\nhung du an ca nhan\CsharpWebApp\ApplicationDevelopment_FPTBook\BookstoreEmailService\bin\Debug\net7.0\BookstoreEmailService.pdb
+D:\nhung du an ca nhan\CsharpWebApp\ApplicationDevelopment_FPTBook\BookstoreEmailService\obj\Debug\net7.0\BookstoreEmailService.csproj.AssemblyReference.cache
+D:\nhung du an ca nhan\CsharpWebApp\ApplicationDevelopment_FPTBook\BookstoreEmailService\obj\Debug\net7.0\BookstoreEmailService.GeneratedMSBuildEditorConfig.editorconfig
+D:\nhung du an ca nhan\CsharpWebApp\ApplicationDevelopment_FPTBook\BookstoreEmailService\obj\Debug\net7.0\BookstoreEmailService.AssemblyInfoInputs.cache
+D:\nhung du an ca nhan\CsharpWebApp\ApplicationDevelopment_FPTBook\BookstoreEmailService\obj\Debug\net7.0\BookstoreEmailService.AssemblyInfo.cs
+D:\nhung du an ca nhan\CsharpWebApp\ApplicationDevelopment_FPTBook\BookstoreEmailService\obj\Debug\net7.0\BookstoreEmailService.csproj.CoreCompileInputs.cache
+D:\nhung du an ca nhan\CsharpWebApp\ApplicationDevelopment_FPTBook\BookstoreEmailService\obj\Debug\net7.0\BookstoreEmailService.dll
+D:\nhung du an ca nhan\CsharpWebApp\ApplicationDevelopment_FPTBook\BookstoreEmailService\obj\Debug\net7.0\refint\BookstoreEmailService.dll
+D:\nhung du an ca nhan\CsharpWebApp\ApplicationDevelopment_FPTBook\BookstoreEmailService\obj\Debug\net7.0\BookstoreEmailService.pdb
+D:\nhung du an ca nhan\CsharpWebApp\ApplicationDevelopment_FPTBook\BookstoreEmailService\obj\Debug\net7.0\ref\BookstoreEmailService.dll

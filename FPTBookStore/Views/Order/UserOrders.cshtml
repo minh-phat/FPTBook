@@ -1,0 +1,95 @@
+﻿@model IEnumerable<FPTBookStore.Models.Order>;
+@{
+    ViewData["Title"] = "UserOrders";
+}
+
+<body>
+    <section class="h-100 h-custom" style="background-color: #eee;">
+        <div class="container h-100 py-5" style="border-radius: 10px">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col">
+                    <div class="card shopping-Order" style="border-radius: 15px;">
+                        <div class="card-body text-black">
+                            <h1 class="text-primary">Your orders</h1>
+                            <hr />
+                            @if(Model.Count() == 0)
+                            {
+                                <h3 class="mb-5 pt-2 text-center fw-bold text-uppercase">You have no orders yet. <a href="~/home/shop">Shop here!</a></h3>
+                            }
+                            @foreach (var order in Model.Reverse())
+                            {
+                                <div class="row">
+                                    @if (order.OrderDetails?.Count() != 0 && order.OrderDetails != null)
+                                    {
+                                        <div class="col px-5 py-4">
+
+                                            <h3 class="mb-5 pt-2 text-left fw-bold text-uppercase">Order Id: No.@order.Id</h3>
+                                            @foreach (var OrderDetails in order.OrderDetails)
+                                            {
+                                                <div class="d-flex align-items-center mb-5">
+                                                    <div class="flex-shrink-0">
+                                                        <img src="@OrderDetails.Book?.Image"
+                                                             class="img-fluid" style="height: 200px; border-radius: 5px">
+                                                    </div>
+                                                    <div class="flex-grow-1 ms-3">
+                                                        <h4 class="text-primary">@OrderDetails.Book?.BookTitle</h4>
+                                                        <h5 style="color: #9e9e9e;">Author: @OrderDetails.Book?.Author?.AuthorName</h5>
+                                                        <h5 style="color: #9e9e9e;">Category: @OrderDetails.Book?.Category?.CategoryName</h5>
+
+                                                        <div class="d-flex align-items-center">
+                                                            <h5 class="fw-bold mb-0 me-5 pe-3">Subtotal: $@(OrderDetails.Book?.Price * @OrderDetails.Quantity)</h5>
+                                                            <h5 class="mb-0 me-5 pe-3">Count: @OrderDetails.Quantity</h5>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            }
+                                            <hr class="mb-4" style="height: 2px; background-color: #1266f1; opacity: 1;">
+                                            <div class="d-flex justify-content-between p-2 mb-2" style="background-color: #e1f5fe;">
+                                                <h5 class="fw-bold mb-0">Total:</h5>
+                                                <h5 class="fw-bold mb-0">$@(order.OrderDetails.Select(item => item.Book?.Price * item.Quantity).Sum())</h5>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-lg-4 py-4">
+                                            <h3 class="mb-5 pt-2 text-left fw-bold text-uppercase">Information</h3>
+                                            <div class="d-flex align-items-left mb-0">
+                                                <div class="flex-grow-1" style="color: #414a4cc4 !important;">
+                                                    <h5>Total books: @order.OrderDetails.Select(item => item.Quantity).Sum() </h5>
+                                                    <h5>Create date: @order.CreateDate</h5>
+                                                    <h5>
+                                                        Order status:
+                                                        @switch (order.OrderStatus)
+                                                        {
+                                                            case "Pending":
+                                                                <h5 class="text-warning fw-bold">@order.OrderStatus</h5>
+                                                                break;
+                                                            case "Shipping":
+                                                                <h5 class="text-info fw-bold">@order.OrderStatus</h5>
+                                                                break;
+                                                            case "Received":
+                                                                <h5 class="text-success fw-bold">@order.OrderStatus</h5>
+                                                                break;
+                                                            default:
+                                                                <h5 class="text-primary fw-bold">@order.OrderStatus</h5>
+                                                                break;
+                                                        }
+                                                    </h5>
+                                                </div>
+                                            </div>
+                                            <hr class="mb-4" style="height: 2px; background-color: #1266f1; opacity: 1;">
+                                            @if (@order.OrderStatus == "Shipping")
+                                            {
+                                                <a class="btn btn-success" asp-action="ConfirmReceive" asp-route-id="@order.Id">Received</a>
+                                            }
+                                        </div>
+
+                                    }
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>

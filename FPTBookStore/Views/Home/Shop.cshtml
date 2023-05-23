@@ -1,0 +1,148 @@
+﻿@model IEnumerable<FPTBookStore.Models.Book>
+@{
+    ViewData["Title"] = "Shop";
+
+}
+
+<!--A Design by W3layouts
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Fashion Club an Ecommerce Online Shopping Category  Flat Bootstrap responsive Website Template | Men :: w3layouts</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Fashion Club Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!-- css -->
+    <link href="~/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <link rel="stylesheet" href="~/css/style.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="~/css/font-awesome.min.css" type="text/css" media="all" />
+    <!--// css -->
+    <!-- font -->
+    <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+    <!-- //font -->
+    <script src="~/js/jquery-1.11.1.min.js"></script>
+    <script src="~/js/bootstrap.js"></script>
+</head>
+<body>
+    <partial name="Header" />
+    <div class="content" style="padding: 10px 0; background-color: whitesmoke">
+        <h1>Available books</h1>
+        <div class="d-flex justify-content-center mt-3">
+            <form asp-controller="Home" asp-action="Shop" style="width:50%">
+                <div class="input-group">
+                    <input class="form-control rounded" placeholder="Search for books" type="search" name="SearchString" style="margin: 0 auto; width:85%" />
+                    <button type="submit" class="btn btn-success">search</button>
+                </div>
+            </form>
+        </div>
+        <hr style="width: 90%; margin: 20px auto 20px auto" />
+        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+            @foreach (var item in Model)
+            {
+                <div class="col mb-5">
+                    <a href="Single/@Html.DisplayFor(modelItem => item.BookId)">
+                        <div class="card h-100  ">
+                            <!-- Product image-->
+                            <img class="card-img-top" src=" @Html.DisplayFor(modelItem => item.Image)" style="padding: 5px; border-radius: 10px;" height="300px" />
+                            <!-- Product details-->
+                            <div class="card-body p-4">
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h5 class="fw-bolder">@Html.DisplayFor(modelItem => item.BookTitle)</h5>
+                                    @Html.DisplayFor(modelItem => item.Author.AuthorName)
+                                    -
+                                    @Html.DisplayFor(modelItem => item.Category.CategoryName)
+
+                                </div>
+                            </div>
+                            <!-- Product actions-->
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center">
+                                    <a class="btn btn-success btn-block" href="~/Cart/AddItem?bookId=@item.BookId">
+                                        $@Html.DisplayFor(modelItem => item.Price)
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            }
+        </div>
+
+    </div>
+    <hr />
+    <div class="footer">
+        <div class="container">
+            <div class="col-md-3 footer-grids fgd1">
+                <a href="index.html"><img src="~/images/logo2.png" alt=" " /><h3>FASHION<span>CLUB</span></h3></a>
+                <ul>
+                    <li>1234k Avenue, 4th block,</li>
+                    <li>New York City.</li>
+                    <li><a href="mailto:info@example.com">info@example.com</a></li>
+                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                </ul>
+            </div>
+            <div class="col-md-3 footer-grids fgd2">
+                <h4>Information</h4>
+                <ul>
+                    <li><a href="contact.html">Contact Us</a></li>
+                    <li><a href="icons.html">Web Icons</a></li>
+                    <li><a href="typography.html">Typography</a></li>
+                    <li><a href="faq.html">FAQ's</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 footer-grids fgd3">
+                <h4>Shop</h4>
+                <ul>
+                    <li><a href="jewellery.html">Jewellery</a></li>
+                    <li><a href="cosmetics.html">Cosmetics</a></li>
+                    <li><a href="Shoes.html">Shoes</a></li>
+                    <li><a href="deos.html">Deos</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 footer-grids fgd4">
+                <h4>My Account</h4>
+                <ul>
+
+                    <li><a href="login.html">Login</a></li>
+                    <li><a href="register.html">Register</a></li>
+                    <li><a href="recommended.html">Recommended </a></li>
+                    <li><a href="payment.html">Payments</a></li>
+                </ul>
+            </div>
+            <div class="clearfix"></div>
+            <p class="copy-right">© 2016 Fashion Club . All rights reserved | Design by <a href="http://w3layouts.com"> W3layouts.</a></p>
+        </div>
+    </div>
+    <!-- cart-js -->
+    <script src="~/js/minicart.js"></script>
+    <script>
+        w3ls1.render();
+
+        w3ls1.cart.on('w3sb1_checkout', function (evt) {
+            var items, len, i;
+
+            if (this.subtotal() > 0) {
+                items = this.items();
+
+                for (i = 0, len = items.length; i < len; i++) {
+                    items[i].set('shipping', 0);
+                    items[i].set('shipping2', 0);
+                }
+            }
+        });
+    </script>
+    <!-- //cart-js -->
+</body>
+</html>

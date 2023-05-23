@@ -1,0 +1,59 @@
+﻿@model IEnumerable<FPTBookStore.Models.UserRoles>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+@*Filter form
+<form asp-controller="Book" asp-action="Index">
+    <p>
+        Book Title : <input type="text" name="SearchString" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>*@
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RoleName)
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PhoneNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RoleName)
+                </td>
+                <td>
+                    <a asp-controller="UserRole" asp-action="Edit" asp-route-id="@item.UserId">Edit Role</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

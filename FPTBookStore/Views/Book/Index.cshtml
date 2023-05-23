@@ -1,0 +1,88 @@
+﻿@model IEnumerable<FPTBookStore.Models.Book>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Book index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+@*Filter form *@
+<form asp-controller="Book" asp-action="Index">
+    <p>
+        Book Title: <input type="text" name="SearchString" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BookTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pages)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PublishDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Available)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Image)
+            </th>
+            <th>
+                Actions
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Reverse()) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.CategoryName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author.AuthorName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pages)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PublishDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Available)
+            </td>
+            <td>
+                <img src="@item.Image" alt="Book's picture" height="180px">
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.BookId"><i class="fa-solid fa-pen-to-square" style="color: #588157;"></i></a>
+                <a asp-action="Details" asp-route-id="@item.BookId"><i class="fa-solid fa-circle-info" style="color: #219ebc;"></i></a>
+                <a asp-action="Delete" asp-route-id="@item.BookId"><i class="fa-solid fa-trash" style="color: #e63946;"></i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

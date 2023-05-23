@@ -1,0 +1,247 @@
+﻿@model IEnumerable<FPTBookStore.Models.Book>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<partial name="Header" />
+
+<body>
+    <partial name="Navbar" />
+
+    <div class="banner-agile" style="display:flex; flex-direction:column; justify-content:center; border-radius:5px;">
+        <h1 style="
+            font-size:180px;
+            text-align:center;
+            vertical-align:bottom;
+            color:whitesmoke;
+            background-color: #f3ec78;
+            background-image: linear-gradient(45deg, #aee34a, #69fcff);
+            background-size: 100%;
+            -webkit-background-clip: text;
+            -moz-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            -moz-text-fill-color: transparent;
+            font-weight: 700">
+            FPTBookstore
+        </h1>
+        <p style="font-size:40px;padding-left: 50px; color:White; font-weight:bold">Where you get your books</p>
+    </div>
+    @*<div class="banner-bootom-w3-agileits">
+        <div class="container">
+            <div class="col-md-5 bb-grids bb-left-agileits-w3layouts">
+                <a href="#">
+                    <div class="bb-left-agileits-w3layouts-inner">
+                        <h3>SALE</h3>
+                        <h4>upto<span>75%</span></h4>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-4 bb-grids bb-middle-agileits-w3layouts">
+                <div>
+                    <div class="bb-middle-top">
+                        <h3>SALE</h3>
+                        <h4>upto<span>55%</span></h4>
+                    </div>
+                </div>
+                <div>
+                    <div class="bb-middle-bottom">
+                        <h3>SALE</h3>
+                        <h4>upto<span>65%</span></h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 bb-grids bb-right-agileits-w3layouts">
+                <div>
+                    <div class="bb-right-top">
+                        <h3>SALE</h3>
+                        <h4>upto<span>50%</span></h4>
+                    </div>
+                </div>
+                <div>
+                    <div class="bb-right-bottom">
+                        <h3>SALE</h3>
+                        <h4>upto<span>60%</span></h4>
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>*@
+    <div class="top-products">
+        <h3>Featured books</h3>
+        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+            @foreach (var item in Model)
+            {
+                <div class="col mb-5">
+                    <a href="/Home/Single/@Html.DisplayFor(modelItem => item.BookId)">
+                        <div class="card h-100  ">
+                            <!-- Product image-->
+                            <img class="card-img-top" src=" @Html.DisplayFor(modelItem => item.Image)" style="padding: 5px; border-radius: 10px;" height="350px" />
+                            <!-- Product details-->
+                            <div class="card-body p-4">
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h5 class="fw-bolder">@Html.DisplayFor(modelItem => item.BookTitle)</h5>
+                                    By @Html.DisplayFor(modelItem => item.Author.AuthorName) <br />
+
+                                    @Html.DisplayFor(modelItem => item.Category.CategoryName)
+
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+    <script src="js/easyResponsiveTabs.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#horizontalTab').easyResponsiveTabs({
+                type: 'default', //Types: default, vertical, accordion
+                width: 'auto', //auto or any width like 600px
+                fit: true   // 100% fit in a container
+            });
+        });
+    </script>
+    <div class="fandt">
+        <div class="container">
+            <div class="col-md-6 features">
+                <h3>Our Services</h3>
+                <div class="support">
+                    <div class="col-md-2 ficon hvr-rectangle-out">
+                        <i class="fa fa-user " aria-hidden="true"></i>
+                    </div>
+                    <div class="col-md-10 ftext">
+                        <h4>24/7 online free support</h4>
+                        <p>Praesent rutrum vitae ligula sit amet vehicula. Donec eget libero nec dolor tincidunt vulputate.</p>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="shipping">
+                    <div class="col-md-2 ficon hvr-rectangle-out">
+                        <i class="fa fa-bus" aria-hidden="true"></i>
+                    </div>
+                    <div class="col-md-10 ftext">
+                        <h4>Free shipping</h4>
+                        <p>Praesent rutrum vitae ligula sit amet vehicula. Donec eget libero nec dolor tincidunt vulputate.</p>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="money-back">
+                    <div class="col-md-2 ficon hvr-rectangle-out">
+                        <i class="fa fa-money" aria-hidden="true"></i>
+                    </div>
+                    <div class="col-md-10 ftext">
+                        <h4>100% money back</h4>
+                        <p>Praesent rutrum vitae ligula sit amet vehicula. Donec eget libero nec dolor tincidunt vulputate.</p>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+            <div class="col-md-6 testimonials">
+                <div class="test-inner">
+                    <div class="wmuSlider example1 animated wow slideInUp" data-wow-delay=".5s">
+                        <div class="wmuSliderWrapper">
+                            <article style="position: absolute; width: 100%; opacity: 0;">
+                                <div class="banner-wrap">
+                                    <img src="images/c1.png" alt=" " class="img-responsive" />
+                                    <p>Nam elementum magna id nibh pretium suscipit varius tortor. Phasellus in lorem sed massa consectetur fermentum. Praesent pellentesque sapien euismod.</p>
+                                    <h4># Andrew</h4>
+                                </div>
+                            </article>
+                            <article style="position: absolute; width: 100%; opacity: 0;">
+                                <div class="banner-wrap">
+                                    <img src="images/c2.png" alt=" " class="img-responsive" />
+                                    <p>Morbi semper, risus dignissim sagittis iaculis, diam est ornare neque, accumsan risus tortor at est. Vivamus auctor quis lacus sed interdum celerisque.</p>
+                                    <h4># Lucy</h4>
+                                </div>
+                            </article>
+                            <article style="position: absolute; width: 100%; opacity: 0;">
+                                <div class="banner-wrap">
+                                    <img src="~/images/c3.png" alt=" " class="img-responsive" />
+                                    <p>Fusce non cursus quam, in hendrerit sem. Nam nunc dui, venenatis vitae porta sed, sagittis id nisl. Pellentesque celerisque  eget ullamcorper vehicula. </p>
+                                    <h4># Martina</h4>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+        <script src="~/js/jquery.wmuSlider.js"></script>
+        <script>
+            $('.example1').wmuSlider();
+        </script>
+    </div>
+
+    <hr />
+
+    <div class="footer">
+        <div class="container">
+            <div class="col-md-3 footer-grids fgd1">
+                <a href="index.html"><img src="~/images/logo2.png" alt=" " /><h3>FASHION<span>CLUB</span></h3></a>
+                <ul>
+                    <li>1234k Avenue, 4th block,</li>
+                    <li>New York City.</li>
+                    <li><a href="mailto:info@example.com">info@example.com</a></li>
+                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                </ul>
+            </div>
+            <div class="col-md-3 footer-grids fgd2">
+                <h4>Information</h4>
+                <ul>
+                    <li><a href="contact.html">Contact Us</a></li>
+                    <li><a href="icons.html">Web Icons</a></li>
+                    <li><a href="typography.html">Typography</a></li>
+                    <li><a href="faq.html">FAQ's</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 footer-grids fgd3">
+                <h4>Shop</h4>
+                <ul>
+                    <li><a href="jewellery.html">Jewellery</a></li>
+                    <li><a href="cosmetics.html">Cosmetics</a></li>
+                    <li><a href="Shoes.html">Shoes</a></li>
+                    <li><a href="deos.html">Deos</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 footer-grids fgd4">
+                <h4>My Account</h4>
+                <ul>
+
+                    <li><a href="login.html">Login</a></li>
+                    <li><a href="register.html">Register</a></li>
+                    <li><a href="recommended.html">Recommended </a></li>
+                    <li><a href="payment.html">Payments</a></li>
+                </ul>
+            </div>
+            <div class="clearfix"></div>
+            <p class="copy-right">© 2016 Fashion Club . All rights reserved | Design by <a href="http://w3layouts.com"> W3layouts.</a></p>
+        </div>
+    </div>
+    <!-- cart-js -->
+    <script src="~/js/minicart.js"></script>
+    <script>
+        w3ls1.render();
+
+        w3ls1.cart.on('w3sb1_checkout', function (evt) {
+            var items, len, i;
+
+            if (this.subtotal() > 0) {
+                items = this.items();
+
+                for (i = 0, len = items.length; i < len; i++) {
+                    items[i].set('shipping', 0);
+                    items[i].set('shipping2', 0);
+                }
+            }
+        });
+    </script>
+    <!-- //cart-js -->
+</body>
+</html>

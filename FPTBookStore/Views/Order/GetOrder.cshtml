@@ -1,0 +1,68 @@
+﻿@model IEnumerable<FPTBookStore.Models.Order>
+
+@{
+    ViewData["Title"] = "GetOrder";
+}
+
+<h2>Order index</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Reverse())
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Phone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OrderStatus)
+                </td>
+                <td>
+                    @if (item.OrderStatus == "Pending")
+                    {
+                        <a asp-action="ShipOrder" asp-route-id="@item.Id" class="btn btn-success btn-sm">Ship order</a>
+                    }
+                    else if (item.OrderStatus == "Shipping")
+                    {
+                        <p class="btn btn-warning btn-sm" style="vertical-align:initial">@item.OrderStatus</p>
+                    }
+                    else
+                    {
+                        <p class="btn btn-info btn-sm" style="vertical-align:initial">@item.OrderStatus</p>
+                    }
+
+                    | <a asp-action="Delete" asp-route-id="@item.Id"><i class="fa-solid fa-trash" style="color: #e63946;"></i></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
