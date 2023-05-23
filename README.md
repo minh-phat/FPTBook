@@ -1,3 +1,6 @@
+Tài khoản đăng nhập admin: administrator@mail.com 
+                 mật khẩu:  123
+
 # ApplicationDevelopment
 
 Muốn đồng bộ data trong db thì phải làm z:
