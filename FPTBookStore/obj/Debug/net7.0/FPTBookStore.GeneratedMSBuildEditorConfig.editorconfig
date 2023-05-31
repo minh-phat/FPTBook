@@ -9,189 +9,189 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FPTBookStore
 build_property.RootNamespace = FPTBookStore
-build_property.ProjectDir = D:\nhung du an ca nhan\CsharpWebApp\ApplicationDevelopment_FPTBook\FPTBookStore\
+build_property.ProjectDir = D:\nhung du an ca nhan\CsharpWebApp\FPTBook\FPTBookStore\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\nhung du an ca nhan\CsharpWebApp\ApplicationDevelopment_FPTBook\FPTBookStore
+build_property.MSBuildProjectDirectory = D:\nhung du an ca nhan\CsharpWebApp\FPTBook\FPTBookStore
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Areas/Identity/Pages/Account/Login.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Areas/Identity/Pages/Account/Register.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Areas/Identity/Pages/_ViewImports.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Pages/_ValidationScriptsPartial.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/ApplicationRole/Create.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/ApplicationRole/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25Sb2xlXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/ApplicationRole/Delete.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/ApplicationRole/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25Sb2xlXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/ApplicationRole/Details.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/ApplicationRole/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25Sb2xlXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/ApplicationRole/Index.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/ApplicationRole/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25Sb2xlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Author/Create.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Author/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Author/Delete.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Author/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Author/Details.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Author/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Author/Edit.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Author/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Author/Index.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Author/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Book/Create.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Book/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Book/Delete.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Book/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Book/Details.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Book/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Book/Edit.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Book/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Book/Index.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Book/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Cart/GetUserCart.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Cart/GetUserCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxHZXRVc2VyQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Category/Create.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Category/Delete.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Category/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Category/Details.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Category/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Category/Edit.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Category/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Category/Index.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Home/Header.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Home/Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Home/Index.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Home/Navbar.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Home/Navbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOYXZiYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Home/Shop.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Home/Shop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Home/Single.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Home/Single.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaW5nbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Order/GetOrder.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Order/GetOrder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcR2V0T3JkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Order/UserOrders.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Order/UserOrders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcVXNlck9yZGVycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Shared/Error.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Shared/_LoginPartial.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/UserRole/Edit.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/UserRole/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclJvbGVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/UserRole/Index.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/UserRole/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclJvbGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/_ViewImports.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/_ViewStart.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/nhung du an ca nhan/CsharpWebApp/ApplicationDevelopment_FPTBook/FPTBookStore/Views/Shared/_Layout.cshtml]
+[D:/nhung du an ca nhan/CsharpWebApp/FPTBook/FPTBookStore/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-p7ezetsdvu

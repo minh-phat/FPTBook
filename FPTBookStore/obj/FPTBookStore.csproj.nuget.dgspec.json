@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\FPTBookStore.csproj": {}
+    "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\FPTBookStore.csproj": {}
   },
   "projects": {
-    "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\BookstoreEmailService\\BookstoreEmailService.csproj": {
+    "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\BookstoreEmailService\\BookstoreEmailService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\BookstoreEmailService\\BookstoreEmailService.csproj",
+        "projectUniqueName": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\BookstoreEmailService\\BookstoreEmailService.csproj",
         "projectName": "BookstoreEmailService",
-        "projectPath": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\BookstoreEmailService\\BookstoreEmailService.csproj",
+        "projectPath": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\BookstoreEmailService\\BookstoreEmailService.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\BookstoreEmailService\\obj\\",
+        "outputPath": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\BookstoreEmailService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\FPTBookStore.csproj": {
+    "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\FPTBookStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\FPTBookStore.csproj",
+        "projectUniqueName": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\FPTBookStore.csproj",
         "projectName": "FPTBookStore",
-        "projectPath": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\FPTBookStore.csproj",
+        "projectPath": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\FPTBookStore.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\obj\\",
+        "outputPath": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\BookstoreEmailService\\BookstoreEmailService.csproj": {
-                "projectPath": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\BookstoreEmailService\\BookstoreEmailService.csproj"
+              "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\BookstoreEmailService\\BookstoreEmailService.csproj": {
+                "projectPath": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\BookstoreEmailService\\BookstoreEmailService.csproj"
               }
             }
           }

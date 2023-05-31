@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cCUE4aKYn4MfR2vtdRAt16bfGiUmdcLbp/jn5fAx/Gl55YBDP1W+EKJTDTMWOD7vwAx7QiOwrbxDaxl1S0/MWQ==",
+  "dgSpecHash": "BqfNof2yMw8kAx+wPL6Bk3BC54m1hNBXDhrtMUNmv9rRhwCMb9mSp4BIoeWDCssSdwf3b4kG+wDJk1hAu0SisQ==",
   "success": true,
-  "projectFilePath": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\BookstoreEmailService\\BookstoreEmailService.csproj",
+  "projectFilePath": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\BookstoreEmailService\\BookstoreEmailService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nguye\\.nuget\\packages\\mailkit\\3.2.0\\mailkit.3.2.0.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",

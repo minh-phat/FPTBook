@@ -1,1127 +1,1127 @@
 {
   "Files": [
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FPTBookStore.bundle.scp.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FPTBookStore.bundle.scp.css",
       "PackagePath": "staticwebassets\\FPTBookStore.bundle.scp.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\css\\addCart.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\css\\addCart.css",
       "PackagePath": "staticwebassets\\css\\addCart.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\css\\bootstrap.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\css\\flexslider.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\css\\flexslider.css",
       "PackagePath": "staticwebassets\\css\\flexslider.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\css\\site.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\css\\style.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\favicon.ico",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\fonts\\FontAwesome.otf",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
       "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
       "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
       "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
       "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\4.png",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\4.png",
       "PackagePath": "staticwebassets\\images\\4.png"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\46.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\46.jpg",
       "PackagePath": "staticwebassets\\images\\46.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\5.png",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\5.png",
       "PackagePath": "staticwebassets\\images\\5.png"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\6.png",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\6.png",
       "PackagePath": "staticwebassets\\images\\6.png"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\7.png",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\7.png",
       "PackagePath": "staticwebassets\\images\\7.png"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\a1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\a1.jpg",
       "PackagePath": "staticwebassets\\images\\a1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\a2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\a2.jpg",
       "PackagePath": "staticwebassets\\images\\a2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\a3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\a3.jpg",
       "PackagePath": "staticwebassets\\images\\a3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\a4.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\a4.jpg",
       "PackagePath": "staticwebassets\\images\\a4.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\abtbtm.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\abtbtm.jpg",
       "PackagePath": "staticwebassets\\images\\abtbtm.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\banner2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\banner2.jpg",
       "PackagePath": "staticwebassets\\images\\banner2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\bb1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\bb1.jpg",
       "PackagePath": "staticwebassets\\images\\bb1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\bb2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\bb2.jpg",
       "PackagePath": "staticwebassets\\images\\bb2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\bb3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\bb3.jpg",
       "PackagePath": "staticwebassets\\images\\bb3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\bb4.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\bb4.jpg",
       "PackagePath": "staticwebassets\\images\\bb4.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\bb5.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\bb5.jpg",
       "PackagePath": "staticwebassets\\images\\bb5.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\c1.png",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\c1.png",
       "PackagePath": "staticwebassets\\images\\c1.png"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\c2.png",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\c2.png",
       "PackagePath": "staticwebassets\\images\\c2.png"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\c3.png",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\c3.png",
       "PackagePath": "staticwebassets\\images\\c3.png"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\cap1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\cap1.jpg",
       "PackagePath": "staticwebassets\\images\\cap1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\clothsbanner.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\clothsbanner.jpg",
       "PackagePath": "staticwebassets\\images\\clothsbanner.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\cp1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\cp1.jpg",
       "PackagePath": "staticwebassets\\images\\cp1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\cp2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\cp2.jpg",
       "PackagePath": "staticwebassets\\images\\cp2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\cp3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\cp3.jpg",
       "PackagePath": "staticwebassets\\images\\cp3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\cp4.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\cp4.jpg",
       "PackagePath": "staticwebassets\\images\\cp4.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\cp5.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\cp5.jpg",
       "PackagePath": "staticwebassets\\images\\cp5.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\cp6.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\cp6.jpg",
       "PackagePath": "staticwebassets\\images\\cp6.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\cp7.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\cp7.jpg",
       "PackagePath": "staticwebassets\\images\\cp7.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\cp8.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\cp8.jpg",
       "PackagePath": "staticwebassets\\images\\cp8.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\cp9.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\cp9.jpg",
       "PackagePath": "staticwebassets\\images\\cp9.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\dp1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\dp1.jpg",
       "PackagePath": "staticwebassets\\images\\dp1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\dp2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\dp2.jpg",
       "PackagePath": "staticwebassets\\images\\dp2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\dp3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\dp3.jpg",
       "PackagePath": "staticwebassets\\images\\dp3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\dp4.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\dp4.jpg",
       "PackagePath": "staticwebassets\\images\\dp4.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\dp5.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\dp5.jpg",
       "PackagePath": "staticwebassets\\images\\dp5.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\dp6.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\dp6.jpg",
       "PackagePath": "staticwebassets\\images\\dp6.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\dp7.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\dp7.jpg",
       "PackagePath": "staticwebassets\\images\\dp7.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\dp8.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\dp8.jpg",
       "PackagePath": "staticwebassets\\images\\dp8.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\dp9.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\dp9.jpg",
       "PackagePath": "staticwebassets\\images\\dp9.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\hcp1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\hcp1.jpg",
       "PackagePath": "staticwebassets\\images\\hcp1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\hcp2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\hcp2.jpg",
       "PackagePath": "staticwebassets\\images\\hcp2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\hcp3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\hcp3.jpg",
       "PackagePath": "staticwebassets\\images\\hcp3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\hcp4.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\hcp4.jpg",
       "PackagePath": "staticwebassets\\images\\hcp4.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\hcp5.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\hcp5.jpg",
       "PackagePath": "staticwebassets\\images\\hcp5.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\hcp6.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\hcp6.jpg",
       "PackagePath": "staticwebassets\\images\\hcp6.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\hcp7.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\hcp7.jpg",
       "PackagePath": "staticwebassets\\images\\hcp7.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\hcp8.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\hcp8.jpg",
       "PackagePath": "staticwebassets\\images\\hcp8.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\hcp9.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\hcp9.jpg",
       "PackagePath": "staticwebassets\\images\\hcp9.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\hp1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\hp1.jpg",
       "PackagePath": "staticwebassets\\images\\hp1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\hp2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\hp2.jpg",
       "PackagePath": "staticwebassets\\images\\hp2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\hp3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\hp3.jpg",
       "PackagePath": "staticwebassets\\images\\hp3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\hp4.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\hp4.jpg",
       "PackagePath": "staticwebassets\\images\\hp4.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\hp5.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\hp5.jpg",
       "PackagePath": "staticwebassets\\images\\hp5.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\hp6.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\hp6.jpg",
       "PackagePath": "staticwebassets\\images\\hp6.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\hp7.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\hp7.jpg",
       "PackagePath": "staticwebassets\\images\\hp7.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\hp8.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\hp8.jpg",
       "PackagePath": "staticwebassets\\images\\hp8.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\hp9.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\hp9.jpg",
       "PackagePath": "staticwebassets\\images\\hp9.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\img-sprite.png",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\img-sprite.png",
       "PackagePath": "staticwebassets\\images\\img-sprite.png"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\ip1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\ip1.jpg",
       "PackagePath": "staticwebassets\\images\\ip1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\ip2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\ip2.jpg",
       "PackagePath": "staticwebassets\\images\\ip2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\ip3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\ip3.jpg",
       "PackagePath": "staticwebassets\\images\\ip3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\ip4.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\ip4.jpg",
       "PackagePath": "staticwebassets\\images\\ip4.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\ip5.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\ip5.jpg",
       "PackagePath": "staticwebassets\\images\\ip5.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\ip6.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\ip6.jpg",
       "PackagePath": "staticwebassets\\images\\ip6.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\ip7.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\ip7.jpg",
       "PackagePath": "staticwebassets\\images\\ip7.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\ip8.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\ip8.jpg",
       "PackagePath": "staticwebassets\\images\\ip8.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\ip9.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\ip9.jpg",
       "PackagePath": "staticwebassets\\images\\ip9.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\jp1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\jp1.jpg",
       "PackagePath": "staticwebassets\\images\\jp1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\jp2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\jp2.jpg",
       "PackagePath": "staticwebassets\\images\\jp2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\jp3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\jp3.jpg",
       "PackagePath": "staticwebassets\\images\\jp3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\jp4.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\jp4.jpg",
       "PackagePath": "staticwebassets\\images\\jp4.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\jp5.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\jp5.jpg",
       "PackagePath": "staticwebassets\\images\\jp5.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\jp6.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\jp6.jpg",
       "PackagePath": "staticwebassets\\images\\jp6.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\jp7.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\jp7.jpg",
       "PackagePath": "staticwebassets\\images\\jp7.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\jp8.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\jp8.jpg",
       "PackagePath": "staticwebassets\\images\\jp8.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\jp9.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\jp9.jpg",
       "PackagePath": "staticwebassets\\images\\jp9.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\kp1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\kp1.jpg",
       "PackagePath": "staticwebassets\\images\\kp1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\kp2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\kp2.jpg",
       "PackagePath": "staticwebassets\\images\\kp2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\kp3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\kp3.jpg",
       "PackagePath": "staticwebassets\\images\\kp3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\kp4.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\kp4.jpg",
       "PackagePath": "staticwebassets\\images\\kp4.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\kp5.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\kp5.jpg",
       "PackagePath": "staticwebassets\\images\\kp5.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\kp6.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\kp6.jpg",
       "PackagePath": "staticwebassets\\images\\kp6.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\kp7.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\kp7.jpg",
       "PackagePath": "staticwebassets\\images\\kp7.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\kp8.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\kp8.jpg",
       "PackagePath": "staticwebassets\\images\\kp8.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\kp9.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\kp9.jpg",
       "PackagePath": "staticwebassets\\images\\kp9.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\logo2.png",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\logo2.png",
       "PackagePath": "staticwebassets\\images\\logo2.png"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\menbanner.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\menbanner.jpg",
       "PackagePath": "staticwebassets\\images\\menbanner.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\menu1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\menu1.jpg",
       "PackagePath": "staticwebassets\\images\\menu1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\menu2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\menu2.jpg",
       "PackagePath": "staticwebassets\\images\\menu2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\mp1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\mp1.jpg",
       "PackagePath": "staticwebassets\\images\\mp1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\mp2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\mp2.jpg",
       "PackagePath": "staticwebassets\\images\\mp2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\mp3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\mp3.jpg",
       "PackagePath": "staticwebassets\\images\\mp3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\mp4.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\mp4.jpg",
       "PackagePath": "staticwebassets\\images\\mp4.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\mp5.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\mp5.jpg",
       "PackagePath": "staticwebassets\\images\\mp5.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\mp6.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\mp6.jpg",
       "PackagePath": "staticwebassets\\images\\mp6.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\mp7.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\mp7.jpg",
       "PackagePath": "staticwebassets\\images\\mp7.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\mp8.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\mp8.jpg",
       "PackagePath": "staticwebassets\\images\\mp8.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\mp9.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\mp9.jpg",
       "PackagePath": "staticwebassets\\images\\mp9.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\np1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\np1.jpg",
       "PackagePath": "staticwebassets\\images\\np1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\np2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\np2.jpg",
       "PackagePath": "staticwebassets\\images\\np2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\np3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\np3.jpg",
       "PackagePath": "staticwebassets\\images\\np3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\np4.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\np4.jpg",
       "PackagePath": "staticwebassets\\images\\np4.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\np5.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\np5.jpg",
       "PackagePath": "staticwebassets\\images\\np5.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\np6.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\np6.jpg",
       "PackagePath": "staticwebassets\\images\\np6.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\np7.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\np7.jpg",
       "PackagePath": "staticwebassets\\images\\np7.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\np8.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\np8.jpg",
       "PackagePath": "staticwebassets\\images\\np8.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\np9.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\np9.jpg",
       "PackagePath": "staticwebassets\\images\\np9.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\offer.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\offer.jpg",
       "PackagePath": "staticwebassets\\images\\offer.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\offer10.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\offer10.jpg",
       "PackagePath": "staticwebassets\\images\\offer10.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\offer11.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\offer11.jpg",
       "PackagePath": "staticwebassets\\images\\offer11.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\offer12.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\offer12.jpg",
       "PackagePath": "staticwebassets\\images\\offer12.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\offer13.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\offer13.jpg",
       "PackagePath": "staticwebassets\\images\\offer13.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\offer14.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\offer14.jpg",
       "PackagePath": "staticwebassets\\images\\offer14.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\offer2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\offer2.jpg",
       "PackagePath": "staticwebassets\\images\\offer2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\offer3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\offer3.jpg",
       "PackagePath": "staticwebassets\\images\\offer3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\offer4.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\offer4.jpg",
       "PackagePath": "staticwebassets\\images\\offer4.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\offer5.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\offer5.jpg",
       "PackagePath": "staticwebassets\\images\\offer5.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\offer6.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\offer6.jpg",
       "PackagePath": "staticwebassets\\images\\offer6.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\offer7.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\offer7.jpg",
       "PackagePath": "staticwebassets\\images\\offer7.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\offer8.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\offer8.jpg",
       "PackagePath": "staticwebassets\\images\\offer8.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\offer9.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\offer9.jpg",
       "PackagePath": "staticwebassets\\images\\offer9.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\oldbanner.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\oldbanner.jpg",
       "PackagePath": "staticwebassets\\images\\oldbanner.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\pp1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\pp1.jpg",
       "PackagePath": "staticwebassets\\images\\pp1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\pp2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\pp2.jpg",
       "PackagePath": "staticwebassets\\images\\pp2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\pp3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\pp3.jpg",
       "PackagePath": "staticwebassets\\images\\pp3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\pp4.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\pp4.jpg",
       "PackagePath": "staticwebassets\\images\\pp4.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\pp5.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\pp5.jpg",
       "PackagePath": "staticwebassets\\images\\pp5.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\pp6.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\pp6.jpg",
       "PackagePath": "staticwebassets\\images\\pp6.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\pp7.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\pp7.jpg",
       "PackagePath": "staticwebassets\\images\\pp7.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\pp8.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\pp8.jpg",
       "PackagePath": "staticwebassets\\images\\pp8.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\pp9.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\pp9.jpg",
       "PackagePath": "staticwebassets\\images\\pp9.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\rec1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\rec1.jpg",
       "PackagePath": "staticwebassets\\images\\rec1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\rec2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\rec2.jpg",
       "PackagePath": "staticwebassets\\images\\rec2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\rec3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\rec3.jpg",
       "PackagePath": "staticwebassets\\images\\rec3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\s1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\s1.jpg",
       "PackagePath": "staticwebassets\\images\\s1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\s2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\s2.jpg",
       "PackagePath": "staticwebassets\\images\\s2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\s3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\s3.jpg",
       "PackagePath": "staticwebassets\\images\\s3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\shp1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\shp1.jpg",
       "PackagePath": "staticwebassets\\images\\shp1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\shp2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\shp2.jpg",
       "PackagePath": "staticwebassets\\images\\shp2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\shp3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\shp3.jpg",
       "PackagePath": "staticwebassets\\images\\shp3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\shp4.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\shp4.jpg",
       "PackagePath": "staticwebassets\\images\\shp4.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\shp5.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\shp5.jpg",
       "PackagePath": "staticwebassets\\images\\shp5.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\shp6.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\shp6.jpg",
       "PackagePath": "staticwebassets\\images\\shp6.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\shp7.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\shp7.jpg",
       "PackagePath": "staticwebassets\\images\\shp7.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\shp8.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\shp8.jpg",
       "PackagePath": "staticwebassets\\images\\shp8.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\shp9.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\shp9.jpg",
       "PackagePath": "staticwebassets\\images\\shp9.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\sp1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\sp1.jpg",
       "PackagePath": "staticwebassets\\images\\sp1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\sp2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\sp2.jpg",
       "PackagePath": "staticwebassets\\images\\sp2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\sp3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\sp3.jpg",
       "PackagePath": "staticwebassets\\images\\sp3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\sp4.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\sp4.jpg",
       "PackagePath": "staticwebassets\\images\\sp4.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\sp5.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\sp5.jpg",
       "PackagePath": "staticwebassets\\images\\sp5.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\sp6.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\sp6.jpg",
       "PackagePath": "staticwebassets\\images\\sp6.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\sp7.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\sp7.jpg",
       "PackagePath": "staticwebassets\\images\\sp7.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\sp8.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\sp8.jpg",
       "PackagePath": "staticwebassets\\images\\sp8.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\sp9.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\sp9.jpg",
       "PackagePath": "staticwebassets\\images\\sp9.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\t1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\t1.jpg",
       "PackagePath": "staticwebassets\\images\\t1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\t2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\t2.jpg",
       "PackagePath": "staticwebassets\\images\\t2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\t3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\t3.jpg",
       "PackagePath": "staticwebassets\\images\\t3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\t4.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\t4.jpg",
       "PackagePath": "staticwebassets\\images\\t4.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\tp1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\tp1.jpg",
       "PackagePath": "staticwebassets\\images\\tp1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\tp10.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\tp10.jpg",
       "PackagePath": "staticwebassets\\images\\tp10.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\tp11.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\tp11.jpg",
       "PackagePath": "staticwebassets\\images\\tp11.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\tp12.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\tp12.jpg",
       "PackagePath": "staticwebassets\\images\\tp12.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\tp13.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\tp13.jpg",
       "PackagePath": "staticwebassets\\images\\tp13.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\tp14.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\tp14.jpg",
       "PackagePath": "staticwebassets\\images\\tp14.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\tp15.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\tp15.jpg",
       "PackagePath": "staticwebassets\\images\\tp15.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\tp16.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\tp16.jpg",
       "PackagePath": "staticwebassets\\images\\tp16.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\tp2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\tp2.jpg",
       "PackagePath": "staticwebassets\\images\\tp2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\tp3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\tp3.jpg",
       "PackagePath": "staticwebassets\\images\\tp3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\tp4.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\tp4.jpg",
       "PackagePath": "staticwebassets\\images\\tp4.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\tp5.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\tp5.jpg",
       "PackagePath": "staticwebassets\\images\\tp5.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\tp6.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\tp6.jpg",
       "PackagePath": "staticwebassets\\images\\tp6.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\tp7.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\tp7.jpg",
       "PackagePath": "staticwebassets\\images\\tp7.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\tp8.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\tp8.jpg",
       "PackagePath": "staticwebassets\\images\\tp8.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\tp9.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\tp9.jpg",
       "PackagePath": "staticwebassets\\images\\tp9.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wap1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wap1.jpg",
       "PackagePath": "staticwebassets\\images\\wap1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wap2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wap2.jpg",
       "PackagePath": "staticwebassets\\images\\wap2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wap3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wap3.jpg",
       "PackagePath": "staticwebassets\\images\\wap3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wap4.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wap4.jpg",
       "PackagePath": "staticwebassets\\images\\wap4.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wap5.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wap5.jpg",
       "PackagePath": "staticwebassets\\images\\wap5.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wap6.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wap6.jpg",
       "PackagePath": "staticwebassets\\images\\wap6.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wap7.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wap7.jpg",
       "PackagePath": "staticwebassets\\images\\wap7.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wap8.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wap8.jpg",
       "PackagePath": "staticwebassets\\images\\wap8.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wap9.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wap9.jpg",
       "PackagePath": "staticwebassets\\images\\wap9.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wish1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wish1.jpg",
       "PackagePath": "staticwebassets\\images\\wish1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wish2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wish2.jpg",
       "PackagePath": "staticwebassets\\images\\wish2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wish3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wish3.jpg",
       "PackagePath": "staticwebassets\\images\\wish3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wp1.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wp1.jpg",
       "PackagePath": "staticwebassets\\images\\wp1.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wp2.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wp2.jpg",
       "PackagePath": "staticwebassets\\images\\wp2.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wp3.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wp3.jpg",
       "PackagePath": "staticwebassets\\images\\wp3.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wp4.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wp4.jpg",
       "PackagePath": "staticwebassets\\images\\wp4.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wp5.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wp5.jpg",
       "PackagePath": "staticwebassets\\images\\wp5.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wp6.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wp6.jpg",
       "PackagePath": "staticwebassets\\images\\wp6.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wp7.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wp7.jpg",
       "PackagePath": "staticwebassets\\images\\wp7.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wp8.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wp8.jpg",
       "PackagePath": "staticwebassets\\images\\wp8.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\images\\wp9.jpg",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\images\\wp9.jpg",
       "PackagePath": "staticwebassets\\images\\wp9.jpg"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\js\\bootstrap.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\js\\easyResponsiveTabs.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\js\\easyResponsiveTabs.js",
       "PackagePath": "staticwebassets\\js\\easyResponsiveTabs.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\js\\imagezoom.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\js\\imagezoom.js",
       "PackagePath": "staticwebassets\\js\\imagezoom.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\js\\jquery-1.11.1.min.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\js\\jquery-1.11.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-1.11.1.min.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\js\\jquery.flexisel.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\js\\jquery.flexisel.js",
       "PackagePath": "staticwebassets\\js\\jquery.flexisel.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\js\\jquery.flexslider.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\js\\jquery.flexslider.js",
       "PackagePath": "staticwebassets\\js\\jquery.flexslider.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\js\\jquery.wmuSlider.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\js\\jquery.wmuSlider.js",
       "PackagePath": "staticwebassets\\js\\jquery.wmuSlider.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\js\\minicart.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\js\\minicart.js",
       "PackagePath": "staticwebassets\\js\\minicart.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\js\\site.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery.unobtrusive-ajax.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery.unobtrusive-ajax.js",
       "PackagePath": "staticwebassets\\lib\\jquery.unobtrusive-ajax.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

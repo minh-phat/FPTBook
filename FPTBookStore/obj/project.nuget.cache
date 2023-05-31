@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "60Q++wn6vvF+XeX8Ef7VopKVk6labcaT+fv0/UdlqZ8kvOOrRuVUX1q4ILSlnkmOEXZKNYZyn8Wp1FichU5jPQ==",
+  "dgSpecHash": "EdLbqjAIhPmgZ3C+VE/GMX6F5Ryod8m4lJCGnUsYPaLsFvZUwc9Eyg51LNxSUNKMDR3gkq0sBf3sgmHFyQvW+g==",
   "success": true,
-  "projectFilePath": "D:\\nhung du an ca nhan\\CsharpWebApp\\ApplicationDevelopment_FPTBook\\FPTBookStore\\FPTBookStore.csproj",
+  "projectFilePath": "D:\\nhung du an ca nhan\\CsharpWebApp\\FPTBook\\FPTBookStore\\FPTBookStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nguye\\.nuget\\packages\\aspnetcore.unobtrusive.ajax\\2.0.0\\aspnetcore.unobtrusive.ajax.2.0.0.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
