@@ -10,6 +10,5 @@ Muốn đồng bộ data trong db thì phải làm z:
 3. Quăng vào trong folder để project ![image](https://github.com/MinhTriet241203/FPTBookStore/assets/111042904/c0e574f9-a7a7-4ff1-a9b8-f215669c3bbf)
 4. Xong mới push lên
 
-Người bên kia muốn lấy data về thì làm ngược lại. Nó mắc mệt lắm, tui đang nghĩ là tạo 1 cái repo khác để 2 file này thêm gitignore mấy cái file trong ổ C đi.
+Người bên kia muốn lấy data về thì làm ngược lại.
 
-Mấy ông test thử đi coi có thấy được cái table Category với một dòng Novel không nha
